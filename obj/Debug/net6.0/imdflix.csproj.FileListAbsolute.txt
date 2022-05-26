@@ -1,0 +1,15 @@
+C:\dio-projeto-final\imdflix\obj\Debug\net6.0\imdflix.csproj.AssemblyReference.cache
+C:\dio-projeto-final\imdflix\obj\Debug\net6.0\imdflix.GeneratedMSBuildEditorConfig.editorconfig
+C:\dio-projeto-final\imdflix\obj\Debug\net6.0\imdflix.AssemblyInfoInputs.cache
+C:\dio-projeto-final\imdflix\obj\Debug\net6.0\imdflix.AssemblyInfo.cs
+C:\dio-projeto-final\imdflix\obj\Debug\net6.0\imdflix.csproj.CoreCompileInputs.cache
+C:\dio-projeto-final\imdflix\bin\Debug\net6.0\imdflix.exe
+C:\dio-projeto-final\imdflix\bin\Debug\net6.0\imdflix.deps.json
+C:\dio-projeto-final\imdflix\bin\Debug\net6.0\imdflix.runtimeconfig.json
+C:\dio-projeto-final\imdflix\bin\Debug\net6.0\imdflix.dll
+C:\dio-projeto-final\imdflix\bin\Debug\net6.0\imdflix.pdb
+C:\dio-projeto-final\imdflix\obj\Debug\net6.0\imdflix.dll
+C:\dio-projeto-final\imdflix\obj\Debug\net6.0\refint\imdflix.dll
+C:\dio-projeto-final\imdflix\obj\Debug\net6.0\imdflix.pdb
+C:\dio-projeto-final\imdflix\obj\Debug\net6.0\imdflix.genruntimeconfig.cache
+C:\dio-projeto-final\imdflix\obj\Debug\net6.0\ref\imdflix.dll
